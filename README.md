@@ -1,6 +1,7 @@
 # Shield-Insurance-Power-BI-Project
 
 🛡️ About the Project:
+
 I created a Power BI dashboard for Shield Insurance to track important business numbers like Total Revenue and Customer Count.
  The dashboard has interactive charts and filters that help understand performance by Sales Method and Age Group.
 It also includes trends, filters, and visuals to support smart, data-based business decisions.
