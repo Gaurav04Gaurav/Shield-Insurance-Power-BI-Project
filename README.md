@@ -7,6 +7,7 @@ I created a Power BI dashboard for Shield Insurance to track important business 
 It also includes trends, filters, and visuals to support smart, data-based business decisions.
 
 🧑‍💻 What I Learned and Used:
+
 • Connecting and relating different tables
  • Writing DAX formulas, including Month-over-Month (MoM) comparison
  • Using colors and arrows to highlight changes
@@ -15,6 +16,7 @@ It also includes trends, filters, and visuals to support smart, data-based busin
  • Cleaning and shaping data in Power Query
 
 📊 Tools Used:
+
  Power BI | DAX | Data Modeling | Data Cleaning | Dashboard Design
 
 Live Dashboard - https://lnkd.in/gsxMahxD
